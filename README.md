@@ -36,11 +36,11 @@ Dataset can be downloaded from - https://snap.stanford.edu/data/soc-RedditHyperl
 <img src="Visualizations/Graph_2.png" width="600" height="300">
 
 ### Insight :  Most influential subreddits in US Politics <br>
-<img src="Visualizations/Graph_3.png" width="800" height="400">
+<img src="Visualizations/Graph_3.png" width="600" height="300">
 
 ### Insight :  Sentimental Analysis of the top 10 active subreddits related to US elections / Donald Trump. <br>
-<img src="Visualizations/Graph_4.png" width="800" height="400">
+<img src="Visualizations/Graph_4.png" width="600" height="300">
 
 ### Insight :  Execution Time for Fetching of records of different sizes <br>
-<img src="Visualizations/Scalability_2.png" width="800" height="400">
+<img src="Visualizations/Scalability_2.png" width="600" height="300">
 
